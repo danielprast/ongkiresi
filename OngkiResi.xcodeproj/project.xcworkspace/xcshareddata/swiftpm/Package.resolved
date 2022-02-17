@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "IBPCollectionViewCompositionalLayout",
+        "repositoryURL": "https://github.com/kishikawakatsumi/IBPCollectionViewCompositionalLayout.git",
+        "state": {
+          "branch": "master",
+          "revision": "bb5b8a20892eba40906f45b2b5e4266358b9501b",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
